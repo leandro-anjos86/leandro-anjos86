@@ -45,10 +45,6 @@ Currently expanding my knowledge in Applied AI for Data, LLMs, and intelligent d
   &nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50" alt="SQL" title="SQL" />
   &nbsp;&nbsp;
-  <!--img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2016.png" height="50" alt="DAX" title="DAX" /-->
-  <!--&nbsp;&nbsp;-->
-  <!--img src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg" height="50" alt="Power Query" title="Power Query" /-->
-  <!--&nbsp;&nbsp;-->
   <img src="https://www.svgrepo.com/show/374159/vba.svg" height="50" alt="VBA" title="VBA" />
   &nbsp;&nbsp;
 
@@ -93,3 +89,7 @@ Currently expanding my knowledge in Applied AI for Data, LLMs, and intelligent d
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="GitLab" title="GitLab" />
 </div>
+
+# Let's Connect
+
+**LinkedIn: [Leandro Anjos ](https://www.linkedin.com/in/leandroanjos86/)**
