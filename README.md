@@ -75,6 +75,8 @@ Currently expanding my knowledge in Applied AI for Data, LLMs, and intelligent d
   &nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*KCkaVVEwT1VOSt8DqxYb3Q.png" height="50" alt="Google Cloud SQL" title="Google Cloud SQL" />
   &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/271436837?s=200&v=4" height="50" alt="Floci" title="Floci" />
+  &nbsp;&nbsp;
 
   <!-- BI, Analytics & Planilhas -->
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" height="50" alt="Power BI" title="Power BI" />
